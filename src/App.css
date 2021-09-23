@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* navigation */
+ul {
+  display: flex;
+  justify-content: space-around;
+  background-color: aquamarine;
+}
+
+li {
+  list-style: none;
+}
+
+.movie {
+  display: flex;
+  justify-content: space-evenly;
+}
